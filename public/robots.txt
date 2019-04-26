@@ -1,0 +1,3 @@
+Sitemap: http://www.i3center.com/sitemap.xml
+User-agent:*
+Disallow:

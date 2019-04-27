@@ -63,14 +63,13 @@
                                     </div>
                                     <div class="form-group col-md-4">
                                         <label>هزینه</label>
-                                        <input name="price" type="number" placeholder="Price" min="0" step="1"
-                                               required
+                                        <input name="price" type="number" placeholder="Price" min="0" step="1" required
                                                class="form-control {{$errors->has('price') ? 'is-invalid' : ''}}"
                                                value="{{Request::old('price') ? Request::old('price') : (isset($course) ? $course->price : '') }}">
                                     </div>
                                     <div class="form-group col-md-4">
                                         <label>ساعت</label>
-                                        <input type="number" name="time" step="5" required
+                                        <input type="text" name="time" placeholder="Time" required
                                                class="form-control {{$errors->has('time') ? 'is-invalid' : ''}}"
                                                value="{{Request::old('time') ? Request::old('time') : (isset($course) ? $course->time : '100') }}">
                                     </div>

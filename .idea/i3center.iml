@@ -23,6 +23,11 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/intervention/image" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/jakub-onderka/php-console-color" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel-filemanager/css" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel-filemanager/files" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel-filemanager/images" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel-filemanager/img" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel-filemanager/js" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/framework" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/nexmo-notification-channel" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/laravel/slack-notification-channel" />
